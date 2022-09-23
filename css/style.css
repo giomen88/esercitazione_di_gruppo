@@ -3,6 +3,7 @@ body {
 }
 
 footer {
-    height: 50px;
+    height: 100px;
     background-color: lightblue;
+    font-size: 1.5rem;
 }
